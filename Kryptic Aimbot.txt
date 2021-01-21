@@ -1,6 +1,7 @@
 --[[
         Designed by CocoCC
-        Edited by Crypto
+        Edited by Asez
+	AimHaxx
 ]]--
 
 local CCAimbotV2 = Instance.new("ScreenGui")
